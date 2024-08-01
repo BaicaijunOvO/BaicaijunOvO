@@ -1,4 +1,2 @@
-你说得对，但是我Github大号被2fa干封了
-旧号 Baicaijun233
-新号 this
+关于我重生到Github世界当赛博黑奴这件事
 QQ:2565144729
