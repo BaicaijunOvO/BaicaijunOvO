@@ -1,2 +1,5 @@
-# 关于我重生到Github世界当赛博黑奴这件事  
-QQ:2565144729
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BaicaijunOvO/BaicaijunOvO/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BaicaijunOvO/BaicaijunOvO/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BaicaijunOvO/BaicaijunOvO/output/github-contribution-grid-snake.svg">
+</picture>
